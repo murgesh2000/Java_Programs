@@ -14,6 +14,10 @@ public class swastik_pattern {
 			}
 			System.out.println();
 		}
+		
+		
+		
+		
 
 	}
 
